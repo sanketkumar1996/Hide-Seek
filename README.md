@@ -24,3 +24,5 @@ You can spawn horcrux in the vicinity by pressing #F button. The horcrux gets sp
 Also, you will be incremented with a score. 
 The timer, keeps running above the head.
 
+## Locomotion
+To move around the scene, you need to touch the touchpad of the motion controllers (Vive), to move forward - slide the fingers on the touchpad in the forward direction, to move right/left - slide the fingers in the right/left directions. 
