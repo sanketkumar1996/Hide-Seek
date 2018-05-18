@@ -1,4 +1,4 @@
-# Unreal VR Nanodegree Project 2 - Hide And Seek READ ME
+﻿# Unreal VR Nanodegree Project 2 - Hide And Seek READ ME
 
 This project is the second assignment of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [Unreal Engine 4 VR Nanodegree](https://www.udacity.com)
 
